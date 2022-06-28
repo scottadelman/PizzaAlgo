@@ -1,4 +1,5 @@
 Decide which business to order from
+Look at menu
 Decide which type of pizza to order
 Order pizza
 Pay for pizza
